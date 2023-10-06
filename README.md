@@ -2,18 +2,20 @@
 CarPooling is a web-based application developed as part of the Cloud Computing project to showcase the utilization of various AWS cloud services for hosting and managing a web application.
 
 ## 🌐 Table of Contents
-- [Overview](#overview)
-- Architecture
-- Frontend
-- Backend
-- Functionalities
-- Register a Car
-- Search for a Car
-- Book a Car
-- Repository Structure
-- Getting Started
-- Contributing
-- License
+- [Overview](#📜-overview)
+- [Architecture](#🏗-architecture)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+- [Functionalities](#🚀-functionalities)
+    - [Register a Car](#register-a-car)
+    - [Search for a Car](#search-for-a-car)
+    - [Book a Car](#book-a-car)
+- [Repository Structure](#📂-repository-structure)
+- [Getting Started](#🚀-getting-started)
+- [Live Demo](#live-demo)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgments)
 
 ## 📜 Overview
 CarPooling is designed to bridge the gap between drivers and co-passengers, offering a platform where they can register, search, and book car rides seamlessly. With its modern web technologies and serverless architecture on AWS, CarPooling ensures a scalable, reliable, and secure user experience.
